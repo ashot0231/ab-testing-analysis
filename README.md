@@ -12,6 +12,13 @@ unique user visits (visit_id)
 assigned variant (A/B)
 conversion outcome (0/1)
 
+⚠️ Note:
+Due to size limitations, the dataset is not included in this repository.
+
+You can download it here:
+https://drive.google.com/file/d/19bPua5yT3VRN1SMQ2qEnbwTr80RLbg_f/view?usp=drive_link
+
+After downloading, place the file in the `/data` folder to reproduce the analysis.
 Data was cleaned by removing duplicate user entries to ensure unbiased analysis.
 
 🧪 Methodology
